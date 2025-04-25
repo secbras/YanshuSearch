@@ -1,7 +1,7 @@
 
 <img src="https://github.com/secbras/YanshuSearch/blob/main/imagens/yanshu.png?raw=true" alt="Yanshu Search">
 
-<h1>Yanshu Search - Buscador de Subdomínios</h1>
+<h1>Yanshu Search</h1>
 
 ---
 
