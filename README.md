@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ## Uso:
 
 ```bash
-python yanshusearch.py
+python yanshu-search.py
 ```
 
 Ao executar, digite o domínio que deseja analisar, como `example.com`.
