@@ -21,7 +21,7 @@ A interface exibe um banner animado e mensagens coloridas para melhor acompanham
 
 ```bash
 git clone https://github.com/secbras/YanshuSearch
-cd Yanshu Search
+cd YanshuSearch
 pip install -r requirements.txt
 ```
 
