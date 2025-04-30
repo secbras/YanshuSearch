@@ -20,8 +20,8 @@ A interface exibe um banner animado e mensagens coloridas para melhor acompanham
 ## Instalação:
 
 ```bash
-git clone https://github.com/secbras/YanshuSearch
-cd YanshuSearch
+git clone https://github.com/secbras/yanshusearch
+cd yanshusearch
 pip install -r requirements.txt
 ```
 
